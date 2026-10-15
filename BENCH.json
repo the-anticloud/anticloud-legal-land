@@ -540,9 +540,10 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "head": "cdf5765b05ef4529ef7d9574a971719f21887750",
-   "url": "https://github.com/IntelligentNetworkSolutions/IllegalDumpSiteDetectionAndLandfillMonitoring",
-   "sha_verified_from": "agent_sha_api.json/github search (class-A)"
+   "url": "https://github.com/NgJaBach/VLSP-2025-Challenge-on-DRiLL-The-challenge-of-Deep-Retrieval-in-the-expansive-Legal-Landscape",
+   "head": "d04b9a6e731a812b3fcbb86a3d5e67cee1d9e0d6",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/IntelligentNetworkSolutions/IllegalDumpSiteDetectionAndLandfillMonitoring"
   }
  }
 }
